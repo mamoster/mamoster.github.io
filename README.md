@@ -1,2 +1,2 @@
-# Erwincat.github.io
+# mamoster.github.io
 my own diary
